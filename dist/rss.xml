@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Steam Preis Tracker</title>
+    <description>Kompakt, modular, GitHub Pages-ready</description>
+    <link></link>
+    <lastBuildDate>Sun, 12 Jul 2026 19:13:01 GMT</lastBuildDate>
+    <item>
+      <title>Hades – Preis nicht verfügbar</title>
+      <link>/games/hades/</link>
+      <guid isPermaLink="true">/games/hades/</guid>
+      <description>Auf den nächsten großen Sale warten. Preis: Preis nicht verfügbar.</description>
+      <pubDate>Sun, 12 Jul 2026 19:13:01 GMT</pubDate>
+      <category>Steam Preis Tracker</category>
+    </item>
+    <item>
+      <title>Stardew Valley – Preis nicht verfügbar</title>
+      <link>/games/stardew-valley/</link>
+      <guid isPermaLink="true">/games/stardew-valley/</guid>
+      <description>Perfekt für einen Dauer-Rabatt-Tracker. Preis: Preis nicht verfügbar.</description>
+      <pubDate>Sun, 12 Jul 2026 19:13:01 GMT</pubDate>
+      <category>Steam Preis Tracker</category>
+    </item>
+    <item>
+      <title>Hollow Knight – Preis nicht verfügbar</title>
+      <link>/games/hollow-knight/</link>
+      <guid isPermaLink="true">/games/hollow-knight/</guid>
+      <description>Wenn der Preis unter X fällt, zuschlagen. Preis: Preis nicht verfügbar.</description>
+      <pubDate>Sun, 12 Jul 2026 19:13:01 GMT</pubDate>
+      <category>Steam Preis Tracker</category>
+    </item>
+  </channel>
+</rss>
